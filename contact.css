@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+   
+  }
+
+  .sam{
+    height: 70px;
+    width: 100%;
+    background-image: linear-gradient(black,blue);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    text-transform: uppercase;
+    border: 5px solid wheat;
+    
+  }
+  .sam a{
+    color: aliceblue;
+    font-size: 20px;
+    text-decoration: none;
+    
+  }
+  .sam,.logo img{
+    height: 60px;
+    width: auto;
+    padding-top: 2px;
+    background-color: antiquewhite;
+  }
+ .sam a:hover{
+    color: antiquewhite;
+    font-size: 1.3em;
+ }
+
+
+/* this is contact code */
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+        }
+
+
+        .allcont {
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(90deg, #4175FC12 0%, #084AF361 100%);
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding-top: 100px;
+}
+
+.us{
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+}
+
+
+       .cont {
+    height: 500px;
+    width: 700px;
+    border: 3px solid rgb(157, 141, 141);
+}
+
+.icon_con {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.material-symbols-outlined {
+    font-size: 150px;
+    padding-top: 30px;
+    
+}
+
+.simple{
+    font-size: 15px;
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+  font-style: normal;
+
+}
+

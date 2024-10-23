@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+   
+  }
+
+
+  .sam{
+    height: 70px;
+    width: 100%;
+    background-image: linear-gradient(black,blue);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    text-transform: uppercase;
+    border: 5px solid wheat;
+    
+  }
+  .sam a{
+    color: aliceblue;
+    font-size: 20px;
+    text-decoration: none;
+    
+  }
+  .sam,.logo img{
+    height: 60px;
+    width: auto;
+    padding-top: 2px;
+    background-color: antiquewhite;
+   
+  }
+  .sam a:hover{
+    color:wheat;
+    font-size: 1.3em;
+}
+
+
+.move_tex{
+  background-color: rgb(144, 193, 177);
+  height: 50px;
+  width: 100%;
+  border: 3px  solid rgb(148, 128, 128);
+}
+
+.move{
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  text-transform: uppercase;
+
+}
+
+.move h2{
+  display: inline-block;
+}
+
+.photo{
+  padding-top: 5px;
+  border: 5px solid lightsteelblue;
+  border-radius: 3px;
+}
+
+.text{
+  display: inline-block;
+ padding: 20px 20px;
+ font-size: 25px;
+ font-style: italic;
+}
+
+
+.man_text{
+  background-color:rgb(185, 208, 239) ;
+}
+
+.chair_man{
+  display: inline;
+  background-color:rgb(185, 208, 239) ;
+  display: flex; 
+  padding-top: 60px;
+  padding-bottom: 50px;
+}
+
+.info{
+  display: inline-block;
+}
+
+
+.chair_man img{
+  border-radius: 160px;
+}
+
+.mainhead{
+ width: 100%;
+}
+/* .rowcon{
+  background-image: linear-gradient(rgb(232, 183, 183),rgb(153, 153, 238));
+  width: 85%;
+  padding-left: 72px;
+  display: flex;
+  justify-content: center;
+ 
+
+} */
